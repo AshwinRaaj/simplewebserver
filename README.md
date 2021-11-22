@@ -48,8 +48,10 @@ JavaScript was initially created to “make web pages alive”.</br>
 The programs in this language are called scripts. They can be written right in a web page’s HTML and run automatically as the page loads.</br>
 Scripts are provided and executed as plain text. They don’t need special preparation or compilation to run.</br>
 </br>
-In this aspect, JavaScript is very different from another language called Java.
+In this aspect, JavaScript is very different from another language called Java.</br>
 </br>
+To learn Javascript Coding and more information regarding it ,click on the link below.</br> 
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"> Reference Link</a>
 <h2><p align = "center">PYTHON</p></h><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="pYTHON" width="200px" height="200px" style="float:right">
 </br>
 Python is a widely used general-purpose, high level programming language. It was created by Guido van Rossum in 1991 and further developed by the Python Software Foundation. It was designed with an emphasis on code readability, and its syntax allows programmers to express their concepts in fewer lines of code.</br>
@@ -64,6 +66,8 @@ Game Development</br>
 AI & ML</br>
 Data Analytics</br>
 </br>
+To learn Python Coding and more information regarding it ,click on the link below.</br> 
+<a href="https://www.python.org/about/gettingstarted/"> Reference Link</a>
 <h2><p align = "center">C/C++</p></h><img src="https://docs.microsoft.com/cs-cz/windows/images/c-logo.png" alt="C/C++" width="200px" height="200px" style="float:right">
 </br>
 C++ is a general-purpose programming language that was developed as an enhancement of the C language to include object-oriented paradigm. It is an imperative and a compiled language.</br>
@@ -89,6 +93,9 @@ Web servers and application servers</br>
 Game Development</br>
 Database connection</br>
 </br>
+To learn C & C++ Coding and more information regarding it ,click on the link below.</br> 
+<a href="https://www.programiz.com/c-programming"> Reference Link For C</a></br>
+<a href="https://www.programiz.com/cpp-programming"> Reference Link For C++</a>
 <h2><p align = "center">R LANGUAGE</p></h><img src="https://www.logolynx.com/images/logolynx/c3/c3b7ed5d007115f23b737150df873247.png" alt="R Language" width="200px" height="200px" style="float:right">
 </br>
 R is an open-source programming language that is widely used as a statistical software and data analysis tool. R generally comes with the Command-line interface. R is available across widely used platforms like Windows, Linux, and macOS. Also, the R programming language is the latest cutting-edge tool.</br>
@@ -103,8 +110,10 @@ Discover: Investigate the data, refine your hypothesis and analyze them</br>
 Model: R provides a wide array of tools to capture the right model for your data
 Communicate: Integrate codes, graphs, and outputs to a report with R Markdown or build Shiny apps to share with the world</br>
 </br>
-<h2><p align = "center">Thank For Visiting Our Page</p></h2>
-<h2><p align = "center">Hope That The Information Was Useful</p></h2>
+To R Language and more information regarding it ,click on the link below.</br> 
+<a href="https://www.tutorialspoint.com/r/index.htm"> Reference Link</a>
+<h2><marquee>Thank For Visiting Our Page</marquee</h2>
+<h2><marquee>Hope That The Information Was Useful</marquee></h2>
 
 </body>
 </html>
@@ -122,6 +131,7 @@ server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
+
 ```
 
 ## OUTPUT:
