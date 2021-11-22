@@ -135,6 +135,14 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+![Output 1](.\images\1.png)
 
+![Output 2](.\images\2.png)
+
+![Output 3](.\images\3.png)
+
+![Output 4](.\images\4.png)
+
+![Output 5](.\images\5.png)
 
 ## RESULT:
