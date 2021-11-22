@@ -135,14 +135,17 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Output 1](.\images\1.png)
 
-![Output 2](.\images\2.png)
+## Client Side Server: 
 
-![Output 3](.\images\3.png)
+![Output 1](CSS1.png)
 
-![Output 4](.\images\4.png)
+![Output 2](CSS2.png)
 
-![Output 5](.\images\5.png)
+![Output 3](CSS3.png)
+
+![Output 4](CSS4.png)
+
+![Output 5](CSS5.png)
 
 ## RESULT:
