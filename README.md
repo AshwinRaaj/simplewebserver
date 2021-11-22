@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
 ## AIM:
-To develop a simple webserver to serve html pages.
+To develop a simple webserver to display top 5 programming languages.
 
 ## DESIGN STEPS:
 ### Step 1: 
@@ -136,7 +136,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-## Client Side Server: 
+## Client Side : 
 
 ![Output 1](CSS1.png)
 
@@ -148,4 +148,10 @@ httpd.serve_forever()
 
 ![Output 5](CSS5.png)
 
+## Server Side :
+
+
 ## RESULT:
+
+Thus, a webserver is designed to display the top 5 programming languages.
+
