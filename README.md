@@ -150,6 +150,13 @@ httpd.serve_forever()
 
 ## Server Side :
 
+![Output 6](SSO1.png)
+
+![Output 7](SSO2.png)
+
+![Output 8](SSO3.png)
+
+![Output 9](SSO4.png)
 
 ## RESULT:
 
